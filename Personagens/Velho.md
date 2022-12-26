@@ -1,0 +1,3 @@
+- Esper idoso
+- Tem o poder de editar a realidade e rebimbocar a parafuseta e reescrever as pessoas com Time 5 foda-se
+	- Usou isso na [[Tenente Beatrice Allen]]

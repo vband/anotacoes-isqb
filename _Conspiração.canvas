@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"31d0a8b764075f1d","x":61,"y":-79,"width":400,"height":187,"color":"1","type":"file","file":"Organizações/Instituto Nassif.md"},
+		{"id":"71e68e3fd0ebcfe5","x":61,"y":231,"width":400,"height":187,"color":"1","type":"file","file":"Organizações/Instituto Stronenberg.md"},
+		{"id":"3d74bdd78bf9ba8b","x":-564,"y":-150,"width":400,"height":329,"color":"1","type":"file","file":"Organizações/Akemichi.md"},
+		{"id":"e6a158583d5f8ebf","x":-564,"y":280,"width":400,"height":400,"type":"file","file":"Experimentos/Os Experimentos.md"},
+		{"id":"fe1491b0f56098de","x":-1429,"y":345,"width":400,"height":270,"color":"3","type":"file","file":"Organizações/Sentinelas.md"}
+	],
+	"edges":[
+		{"id":"d230b63dcceb0a97","fromNode":"3d74bdd78bf9ba8b","fromSide":"right","toNode":"31d0a8b764075f1d","toSide":"left","label":"?"},
+		{"id":"b3c6efb4468d5c80","fromNode":"31d0a8b764075f1d","fromSide":"bottom","toNode":"71e68e3fd0ebcfe5","toSide":"top","label":"?"},
+		{"id":"4cec3aea940ba9bf","fromNode":"3d74bdd78bf9ba8b","fromSide":"bottom","toNode":"e6a158583d5f8ebf","toSide":"top","label":"Fizeram"},
+		{"id":"045fc6b42a2d24d4","fromNode":"fe1491b0f56098de","fromSide":"right","toNode":"e6a158583d5f8ebf","toSide":"left","label":"Investigam"}
+	]
+}

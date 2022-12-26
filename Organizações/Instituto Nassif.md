@@ -1,0 +1,3 @@
+## Ligações
+- Pai do Nomitaro
+- 
